@@ -1,0 +1,16 @@
+env: UAT
+
+systems:
+  supply_chain:
+    name: 供应链系统
+    url: https://uat-supply-chain.xxx.com
+    tenant: CDF
+    username: test_sc_01
+    password: Test@123456
+
+  wms:
+    name: WMS系统
+    url: https://uat-wms.xxx.com
+    tenant:
+    username: test_wms_01
+    password: Test@123456
